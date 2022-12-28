@@ -12,7 +12,12 @@ If we're going to be working with this data, we know a good place to start would
 - Use list to create dictionary object 
 - Create DataFrame object from dictionary 
 - Subset interested columns 
-- Create color list 
+- Create color list based on its genre
 - plot liner and scatter to inspect
+
+<br>
+
+![image](https://user-images.githubusercontent.com/58776067/209820740-bdf888b6-b580-4b41-aab5-153d80f502e5.png)
+
 
 <end>
